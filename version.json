@@ -1,0 +1,86 @@
+{
+ "sha": "6e6273f29811c22da1ca8de156181d5e94a37b3f",
+ "fw": "b4fc77c",
+ "app": "0.21.1",
+ "date": "2026-11-11",
+ "apk": {
+  "name": "Norta.apk",
+  "size": 2010730,
+  "sha256": "ef08e688dd69b67c638e1509ae74347b6c2852764c39eea14ae4bf624ba7ab67"
+ },
+ "firmware": {
+  "name": "norta-base-firmware.bin",
+  "size": 1468048,
+  "sha256": "eaaf7811347492d35133dd11eab245b232cf62d4d875bcace01e3f96c24157a3"
+ },
+ "log": [
+  {
+   "sha": "6e6273f29811c22da1ca8de156181d5e94a37b3f",
+   "title": "App 0.21.1: la versión nueva se ofrece también al volver a la app"
+  },
+  {
+   "sha": "02b04d63d3c5bff26f88569e1aafd9d47227432e",
+   "title": "App 0.21.0: Medir con menos cosas a la vista"
+  },
+  {
+   "sha": "d3591b74daefb56e1ab885544417e52ec7156e87",
+   "title": "App 0.20.3: el visor 3D mira a lo medido aunque haya parcelas guardadas lejos"
+  },
+  {
+   "sha": "9c00cb6a513a006bbed9ee582ca3c9fd94c6ddf6",
+   "title": "App 0.20.2: el LiDAR se enseña en cuanto está tratado y su barra queda a la vista"
+  },
+  {
+   "sha": "86326358f5a60a03842b0cdbcc3b99898d79a1ed",
+   "title": "App 0.20.1: la app no arrancaba con un destino de Ir a guardado"
+  },
+  {
+   "sha": "d540e8cf5f82df4f854be7c11a818e23f66ad4c9",
+   "title": "Documentación reordenada: CLAUDE.md corto y el resto en docs"
+  },
+  {
+   "sha": "20f9d46294015ae19a8d13b244e4168994e300f9",
+   "title": "App 0.20.0: Ir a un punto deja de ser una pestaña y pasa a Medir"
+  },
+  {
+   "sha": "5381d90d7183d6463341851fc21817bc7097ab1e",
+   "title": "App 0.19.0: la foto automática de cada punto, con el gran angular"
+  },
+  {
+   "sha": "e17e42000f1fbd761dc3e67f5db10c6b665d0143",
+   "title": "App 0.18.1: el LiDAR se recorta y se guarda solo lo necesario"
+  },
+  {
+   "sha": "d09c0e0f7b437676771a69d7a01608b620fe4e37",
+   "title": "App 0.18.0: la base aparte, con sus propias pestañas"
+  },
+  {
+   "sha": "23d8c835c79fd1b2e77f335c58bef4538042e65a",
+   "title": "App 0.17.2: recintos del SIGPAC sobre el mapa y ficha del recinto"
+  },
+  {
+   "sha": "86194565daf28c9a111ee7c8b5466cc74ce92f91",
+   "title": "App 0.17.1: la flecha de Ir a va respecto a hacia donde apunta el móvil"
+  },
+  {
+   "sha": "1ac7c38a54f060249d4e4146ab86e23bf6071dcc",
+   "title": "App 0.17.0: husos y sistemas de coordenadas habituales, y exportar e importar Shapefile"
+  },
+  {
+   "sha": "9561272636c8278e2ebd940241e643abd095e7b7",
+   "title": "App 0.16.2: el visor 3D enseña el LiDAR con parte de la zona bajada, y la red del IGN viene puesta"
+  },
+  {
+   "sha": "205a0a928f91975c3ebde66b4b6dc901d3dd5abb",
+   "title": "App 0.16.1: copia automática de cada proyecto en Documentos/Norta y recuperar un proyecto"
+  },
+  {
+   "sha": "c89c2b32cecac43cd76731097b4a90b803f8fbab",
+   "title": "App 0.16.0: proyectos, sistema de coordenadas recomendado y nombre, antena y tiempo en Medir"
+  },
+  {
+   "sha": "91995cb72161d94e24f741f74e3ffdd2e769c438",
+   "title": "App 0.15.1: se actualiza sin token, desde el repositorio público de descargas"
+  }
+ ]
+}
